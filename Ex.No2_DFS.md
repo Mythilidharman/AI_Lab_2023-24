@@ -36,7 +36,8 @@ print("Following is the Depth-First Search")
 dfs(visited, graph, '5')
 ```
 ### Output:
-![image](https://github.com/user-attachments/assets/65ae9fbc-e08f-46d6-b343-35ad9a059894)
+![image](https://github.com/user-attachments/assets/8f803a0b-14bf-496c-a2fc-a1fbf1ad9153)
+
 
 ### Result:
 Thus the depth first search order was found sucessfully.
